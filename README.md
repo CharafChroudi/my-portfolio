@@ -16,6 +16,6 @@ In the future things I want to work on and improve :
 
 -MUCH better css (perhaps using a library) and full responsivness of the website.
 
--Detailing and desplaying my work and what I can do in more unique way.
+-Detailing and displaying my work and what I can do in more unique way.
 
 -A more user-friendly contact me section and that it actually functions as intended (sending the email correctly)
