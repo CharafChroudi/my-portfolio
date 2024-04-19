@@ -1,4 +1,6 @@
 import projectNyanCat from "../imgs/projectNyanCat.png";
+import IMDBWorld from "../imgs/IMDBWorld.png";
+import WearableTechnology from "../imgs/WearableTechnology.png";
 import moreProjects from "../imgs/MoreProjects.jpg";
 export const projects = [
   {
@@ -6,18 +8,19 @@ export const projects = [
     projectName: "Nyan Cat",
     img: projectNyanCat,
     description:
-      "A retro game working with collision features of javascript with score and lives system implemented",
+      "Retro game working with collision features of javascript with score and lives system implemented",
   },
   {
     id: 1002,
-    projectName: "Coming Soon!",
-    img: moreProjects,
-    description: "Work in progress",
+    projectName: "Wearable Technology",
+    img: WearableTechnology,
+    description: "E-commerce project where you can buy fitness products",
   },
   {
     id: 1003,
-    projectName: "Coming Soon!",
-    img: moreProjects,
-    description: "Work in progress",
+    projectName: "IMDB World",
+    img: IMDBWorld,
+    description:
+      "A movie website where you can rate movies and discuss with your others movie topics",
   },
 ];
